@@ -1,2 +1,2 @@
 Temporary GitHub plugin permission test.
-version=1
+version=2
